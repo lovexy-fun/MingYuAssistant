@@ -17,7 +17,7 @@
 如果无法在线安装，可以选择离线安装：
 
 1. 下载仓库中提供的tampermonkey安装包：[tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo_v4.16.1.crx](https://raw.githubusercontent.com/lovexy-fun/MingYuAssistant/master/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo_v4.16.1.crx)
-2. 打开浏览器插件管理页面 <a target="_blank" href="chrome://extensions/">Chrome</a> | <a target="_blank" href="edge://extensions/">Edge</a>，将下载好的crx文件拖拽到页面上。
+2. 打开浏览器插件管理页面 `chrome://extensions/` | `edge://extensions/`，将下载好的crx文件拖拽到页面上。
 
 ### 二、脚本安装
 
