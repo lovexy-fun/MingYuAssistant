@@ -11,6 +11,7 @@
 // @downloadURL  https://raw.githubusercontent.com/lovexy-fun/MingYuAssistant/master/src/userData.user.js
 // @updateURL    https://raw.githubusercontent.com/lovexy-fun/MingYuAssistant/master/src/userData.user.js
 // @supportURL   https://github.com/lovexy-fun/MingYuAssistant/issues
+// @homepage     https://github.com/lovexy-fun/MingYuAssistant
 // ==/UserScript==
 
 (function () {
